@@ -63,7 +63,7 @@ const App = () => {
     const navigateToMenu = () => {
           setCurrentLoader(2);
     };
-  
+  /////
     return (
       <NavigationContainer>
          <Stack.Navigator
